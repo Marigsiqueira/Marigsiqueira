@@ -1,5 +1,6 @@
-<h1>Olá, eu sou a Mariana!</h1>
-
+<h1>Olá, eu sou a Mariana :) </h1>
+Estudande de Desenvolvimento de Software Multiplatafroma na Fatec Diadema
+<br>
 <div>
 <a href="https://github.com/Marigsiqueira">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marigsiqueira&layout=compact&langs_count=7&theme=dracula"/>
