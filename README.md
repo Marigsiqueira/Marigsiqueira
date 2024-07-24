@@ -1,5 +1,18 @@
-- 👋 Hi, I’m Mariana
-- 👀 I am a cross-platform software development student at FATEC
+<h1>Olá, eu sou a Mariana!</h1>
+
+<div>
+<a href="https://github.com/Marigsiqueira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<div>
+<h3>Contato</h3>
+<a href = "mgsmariana123@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mariana-gon%C3%A7alves-398315223/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
 
 <!---
 Marigsiqueira/Marigsiqueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
