@@ -9,12 +9,11 @@
 </div>
 
 <div>
-<h3>Contato</h3>
+<h3>Fale comigo!</h3>
 <a href = "mailto:mgsmariana123@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mariana-gon%C3%A7alves-398315223/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/Marigsiqueira/Marigsiqueira/blob/output/github-contribution-grid-snake.svg)
 
 
 
